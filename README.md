@@ -1,67 +1,64 @@
-🌟 Learning Notes Repository
+<h1><br>🌟 Learning Notes Repository<br><br></h1><br>
 
-📌 About
+<h2>📌 About</h2>
+Welcome to my <b>Learning Notes Repository!</b> 🎉<br><br>
 
-Welcome to my Learning Notes Repository! 🎉
+This repo is my personal space to:<br>
 
-This repo is my personal space to:
+<ul>
+  <li>✍️ Document my daily <b>learning journey</b></li>
 
-✍️ Document my daily learning journey
+  <li>🛠️ Practice <b>Git & GitHub commands</b> hands-on</li>
 
-🛠️ Practice Git & GitHub commands hands-on
+  <li>📊 Build projects as I progress through <b>Data Analytics, Python, and more</b></li>
 
-📊 Build projects as I progress through Data Analytics, Python, and more
+  <li>🌍 Share knowledge and resources with the community</li>
+</ul>
 
-🌍 Share knowledge and resources with the community
+<h2>🚀 Goals</h2>
 
-🚀 Goals
+<ul>
+  <li>✅ Learn Git & GitHub step by step</li>
+  <li>✅ Practice branching, merging, and collaboration</li> 
+  <li>✅ Build consistency by committing notes daily</li> 
+  <li>✅ Create a public record of my learning</li> 
+  </ul>
 
-✅ Learn Git & GitHub step by step
+<h2>📂 Repository Structure</h2>
 
-✅ Practice branching, merging, and collaboration
+learning-notes/<br>
+│<br>
+├── day1_notes.md&nbsp;&nbsp;&nbsp;&nbsp;# Notes from Day 1<br>
+├── day2_notes.md&nbsp;&nbsp;&nbsp;&nbsp;# Notes from Day 2<br>
+├── resources.md&nbsp;&nbsp;&nbsp;&nbsp;  # Helpful resources<br>
+├── README.md&nbsp;&nbsp;&nbsp;&nbsp;     # Project description<br>
+└── LICENSE&nbsp;&nbsp;&nbsp;&nbsp;       # License information<br>
 
-✅ Build consistency by committing notes daily
+<h2>🛠️ Git Skills Practiced</h2>
 
-✅ Create a public record of my learning
+✔ Initializing & setting up repos<br>
+✔ Tracking changes (git add, git commit)<br>
+✔ Branching & merging (git branch, git merge)<br>
+✔ Fixing mistakes (git restore, git reset)<br>
+✔ Collaborating (git push, git pull)<br>
+✔ Contributing (fork, pull request)<br>
 
-📂 Repository Structure
-learning-notes/
-│
-├── day1_notes.md       # Notes from Day 1
-├── day2_notes.md       # Notes from Day 2
-├── resources.md        # Helpful resources
-├── README.md           # Project description
-└── LICENSE             # License information
-
-🛠️ Git Skills Practiced
-
-✔ Initializing & setting up repos
-✔ Tracking changes (git add, git commit)
-✔ Branching & merging (git branch, git merge)
-✔ Fixing mistakes (git restore, git reset)
-✔ Collaborating (git push, git pull)
-✔ Contributing (fork, pull request)
-
-📖 How to Use
+<h2>📖 How to Use</h2>
 
 Clone this repo:
+<ol>
+  <li>git clone https://github.com/<Sakilmemon>/learning-notes.git</li>
+  <li>Browse the notes to follow along.</li>
+  <li>Contribute by suggesting resources or corrections via Pull Requests 💡</li>
+</ol>
+    
+<h2>🔗 Useful Resources</h2>
 
-git clone https://github.com/<Sakilmemon>/learning-notes.git
+<a href="https://git-scm.com/book/en/v2?utm_source=chatgpt.com">📘 Pro Git Book</a><br>
+🎯 GitHub Skills<br>
+📙 Git Documentation<br>
 
-
-Browse the notes to follow along.
-
-Contribute by suggesting resources or corrections via Pull Requests 💡
-
-🔗 Useful Resources
-
-📘 Pro Git Book
-
-🎯 GitHub Skills
-
-📙 Git Documentation
-
-📜 License
+<h2>📜 License</h2>
 
 📝 This project is licensed under the MIT License – free to use, modify, and share.
 
