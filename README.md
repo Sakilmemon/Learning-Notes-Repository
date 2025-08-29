@@ -1,10 +1,5 @@
 🌟 Learning Notes Repository
 
-
-
-
-
-
 📌 About
 
 Welcome to my Learning Notes Repository! 🎉
@@ -51,7 +46,7 @@ learning-notes/
 
 Clone this repo:
 
-git clone https://github.com/<your-username>/learning-notes.git
+git clone https://github.com/<Sakilmemon>/learning-notes.git
 
 
 Browse the notes to follow along.
